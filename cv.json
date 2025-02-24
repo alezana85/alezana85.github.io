@@ -1,0 +1,456 @@
+{
+  "analyticsCode": "",
+  "basics": {
+    "name": "Alejandro Lezana",
+    "label": "Analista de Datos",
+    "animated_main_label": "analyst",
+    "animated_secondary_initial_label": "data",
+    "animated_secondary_final_label": "data",
+    "image": "/pfp.webp",
+    "email": "alezana85@outlook.com",
+    "url": "https://www.linkedin.com/in/alejandro-lezana-dataanalyst/",
+    "summary": "¡Hola! Soy Alejandro 👋😊. Apasionado por la tecnología, transformo datos en insights valiosos con Python, SQL, Excel, Tableau y Power BI 💡📊. Creo dashboards para decisiones estratégicas 🚀. Mi experiencia combina habilidades analíticas con un enfoque práctico para resolver problemas y optimizar procesos.",
+    "theme": "red",
+    "location": {
+      "address": "Benito Juarez",
+      "city": "Ciudad de Mexico",
+      "countryCode": "MX",
+      "region": "MX"
+    },
+    "profiles": [
+      {
+        "network": "Currículum Vitae",
+        "icon": "tabler:file-cv",
+        "color": "#4b5320",
+        "username": "Visit CV",
+        "url": "https://drive.google.com/file/d/12ZFCcVNt0DUZrbZOxlL2Soo1mi9DvoV6/view?usp=sharing"
+      },
+      {
+        "network": "LinkedIn",
+        "icon": "ri:linkedin-fill",
+        "color": "#0066C2",
+        "username": "Alejandro Lezana",
+        "url": "https://www.linkedin.com/in/alejandro-lezana-dataanalyst/"
+      },
+      {
+        "network": "GitHub",
+        "icon": "mdi:github",
+        "color": "#929AAB",
+        "username": "alezana85",
+        "url": "https://github.com/alezana85"
+      },
+      {
+        "network": "Email",
+        "icon": "ri:mail-fill",
+        "color": "#D44638",
+        "username": "Alejandro Lezana",
+        "url": "mailto:alezana85@outlook.com"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Bootcamp Tripleten",
+      "url": "https://www.linkedin.com/school/tripleten-latam/posts/?feedView=all",
+      "area": "Analista de Datos",
+      "studyType": "Full-time student",
+      "startDate": "2024-2-01",
+      "endDate": "2025-2-01"
+    },
+    {
+      "institution": "Instituto Politécnico Nacional",
+      "url": "https://www.linkedin.com/school/ipnmx/posts/?feedView=all",
+      "area": "Administración y Desarrollo de Negocios",
+      "studyType": "Full-time student",
+      "startDate": "2006-7-01",
+      "endDate": "2010-7-01"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Analista de Datos Profesional",
+      "date": "2025-02-04",
+      "url": "https://conaec.edu.mx/validacion/",
+      "issuer": "Secretaria de Educacion Publica"
+    },
+    {
+      "name": "Data Analyst",
+      "date": "2024-01-03",
+      "url": "",
+      "issuer": "Tripleten"
+    }
+  ],
+  "work": [
+    {
+      "name": "HRI Group",
+      "position": "Analista de Impuestos Laborales",
+      "location_type": "Presencial",
+      "location": "MX",
+      "url": "",
+      "startDate": "2024-03-01",
+      "endDate": null,
+      "summary": "Automatización de procesos y análisis de datos para optimizar operaciones y mejorar la eficiencia. Desarrollo y optimización de libros de trabajo en Excel para automatizar tareas clave y repetitivas.",
+      "highlights": [
+        "Developed a data-intensive Angular project for internal use in the national healthcare system, focusing on managing complex data sets and implementing business logic."
+      ],
+      "responsibilities": [
+        "Análisis de datos para el pago de los impuestos laborales de los empleados de las empresas de los clientes.",
+        "Creacion de scripts de automatización para la descarga de archivos masivos de los portales de las dependencias gubernamentales.",
+        "Analizar los cálculos de impuestos y cuotas obrero-patronales para que se realicen de manera precisa y oportuna, cumpliendo con las obligaciones fiscales de la empresa.",
+        "Trabajar con otros equipos (como contabilidad y recursos humanos) para garantizar la precisión de los datos y la correcta aplicación de las normativas fiscales."
+      ],
+      "achievements": [
+        "Automaticé el 50% del proceso de cálculo de impuestos utilizando Python, reduciendo la dependencia de software obsoleto y mejorando la eficiencia en un 50-80%. Esto permitió a la empresa cumplir con las obligaciones fiscales de manera más rápida y precisa.",
+        "Desarrollé y optimicé libros de trabajo en Excel para automatizar procesos clave, como el cálculo del ISN y créditos INFONAVIT, logrando una reducción del 30% en el tiempo de procesamiento y mejorando la eficiencia operativa.",
+        "Implementé soluciones de automatización que eliminaron la necesidad de realizar cálculos manuales repetitivos, reduciendo errores humanos y asegurando un 100% de precisión en los reportes financieros.",
+        "Contribuí a la modernización de los procesos fiscales de la empresa, reemplazando herramientas obsoletas con soluciones basadas en Python y Excel, lo que resultó en un ahorro significativo de tiempo y recursos."
+      ],
+      "skills": {
+        "Python": "simple-icons:python",
+        "Pandas": "simple-icons:pandas",
+        "Selenium": "simple-icons:selenium",
+        "Excel": "ri:file-excel-2-fill",
+        "Word": "ri:file-word-2-fill",
+        "Google Sheets": "simple-icons:googlesheets",
+        "Google Docs": "simple-icons:googledocs",
+        "Slack": "simple-icons:slack"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "icon": "simple-icons:python",
+      "level": "Avanzado",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos"
+      ]
+    },
+    {
+      "name": "SQLite",
+      "icon": "simple-icons:sqlite",
+      "level": "Intermedio",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos",
+        "Responsive Design",
+        "Bases de Datos"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "icon": "simple-icons:postgresql",
+      "level": "Avanzado",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos",
+        "Bases de Datos"
+      ]
+    },
+    {
+      "name": "Pandas",
+      "icon": "simple-icons:pandas",
+      "level": "Avanzado",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos",
+        "Bases de Datos"
+      ]
+    },
+    {
+      "name": "NumPy",
+      "icon": "simple-icons:numpy",
+      "level": "Avanzado",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos",
+        "Bases de Datos"
+      ]
+    },
+    {
+      "name": "Matplotlib",
+      "icon": "ph:speedometer",
+      "level": "Avanzado",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos",
+        "Dashboards"
+      ]
+    },
+    {
+      "name": "Seaborn",
+      "icon": "mdi:chart-line",
+      "level": "Avanzado",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos",
+        "Dashboards"
+      ]
+    },
+    {
+      "name": "Plotly",
+      "icon": "simple-icons:plotly",
+      "level": "Avanzado",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos",
+        "Dashboards"
+      ]
+    },
+    {
+      "name": "Scikit-learn",
+      "icon": "simple-icons:scikitlearn",
+      "level": "Intermedio",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos"
+      ]
+    },
+    {
+      "name": "Dash",
+      "icon": "simple-icons:dash",
+      "level": "Intermedio",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos",
+        "Dashboards"
+      ]
+    },
+    {
+      "name": "Tabelau",
+      "icon": "mdi:chart-bar",
+      "level": "Intermediate",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos",
+        "Dashboards"
+      ]
+    },
+    {
+      "name": "Power Bi",
+      "icon": "mdi:chart-pie",
+      "level": "Aprendiendo",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos",
+        "Dashboards"
+      ]
+    },
+    {
+      "name": "Selenium",
+      "icon": "simple-icons:selenium",
+      "level": "Avanzado",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos",
+        "Web Scrapping",
+        "Automation"
+      ]
+    },
+    {
+      "name": "BeautifulSoup",
+      "icon": "ri:bowl-fill",
+      "level": "Intermediate",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos",
+        "Web Scrapping",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Git",
+      "icon": "mdi:git",
+      "level": "Intermedio",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos",
+        "Control de Versiones"
+      ]
+    },
+    {
+      "name": "Github",
+      "icon": "mdi:github-circle",
+      "level": "Intermedio",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos",
+        "Control de Versiones",
+        "Git"
+      ]
+    },
+    {
+      "name": "AWS",
+      "icon": "simple-icons:amazonaws",
+      "level": "Aprendiendo",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos"
+      ]
+    },
+    {
+      "name": "Jupyter Notebook",
+      "icon": "simple-icons:jupyter",
+      "level": "Avanzado",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos"
+      ]
+    },
+    {
+      "name": "Google Colab",
+      "icon": "simple-icons:googlecolab",
+      "level": "Avanzado",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos"
+      ]
+    },
+    {
+      "name": "Microsoft Excel",
+      "icon": "ri:file-excel-2-fill",
+      "level": "Avanzado",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos"
+      ]
+    },
+    {
+      "name": "Microsoft Word",
+      "icon": "ri:file-word-2-fill",
+      "level": "Avanzado",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos"
+      ]
+    },
+    {
+      "name": "Google Sheets",
+      "icon": "simple-icons:googlesheets",
+      "level": "Avanzado",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos"
+      ]
+    },
+    {
+      "name": "Google Docs",
+      "icon": "simple-icons:googledocs",
+      "level": "Avanzado",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos"
+      ]
+    },
+    {
+      "name": "SAP",
+      "icon": "simple-icons:sap",
+      "level": "Principiante",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos"
+      ]
+    },
+    {
+      "name": "VS Code",
+      "icon": "tabler:brand-vscode",
+      "level": "Avanzado",
+      "keywords": [
+        "Data Analyst",
+        "Analisis de Datos"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Idioma Nativo"
+    },
+    {
+      "language": "English",
+      "fluency": "Basic - A2"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Prueba A/B",
+      "isActive": true,
+      "description": "Test A/B de un juego para móviles: se compara mover la barrera de la primera compra del nivel 30 al 40 para ver si mejora la retención de jugadores, tiempo de sesión y compras, usando grupos A y B para optimizar la experiencia del jugador.",
+      "highlights": [
+        "🎯Evaluación del impacto en la retención",
+        "📊Análisis de la distribución ",
+        "📈 Bootstrapping y pruebas de hipótesis"
+      ],
+      "github": "https://github.com/alezana85/Test_AB_Mobile_Game",
+      "stack": {
+        "Python": "simple-icons:python",
+        "Pandas": "simple-icons:pandas",
+        "Matplotlib": "ph:speedometer",
+        "Seaborn": "mdi:chart-line",
+        "NumPy": "simple-icons:numpy",
+        "Juptyer Notebook": "simple-icons:jupyter"
+      },
+      "url": "https://github.com/alezana85/Test_AB_Mobile_Game/blob/main/Cookie_Cats.ipynb"
+    },
+    {
+      "name": "Call Center KPI's",
+      "isActive": false,
+      "description": "Desarrollo de KPI's para que los supervisores de un Contact Center pueda identifica operadores ineficaces analizando llamadas perdidas, tiempos de espera y volumen de llamadas salientes, optimizando el rendimiento del equipo",
+      "highlights": [
+        "🔎Analisis exploratorio de datos",
+        "😮‍Indicadores Clave de Despeño (KPI)",
+        "😊Entranamiento de modelo K-Means",
+        "📊Visualización de datos"
+      ],
+      "github": "https://github.com/alezana85/Contact_Center_KPI",
+      "stack": {
+        "Python": "simple-icons:python",
+        "Matplotlib": "ph:speedometer",
+        "Seaborn": "mdi:chart-line",
+        "Pandas": "simple-icons:pandas",
+        "Plotly": "simple-icons:plotly",
+        "Tableau": "mdi:chart-bar",
+        "Sci-Kit Learn": "simple-icons:scikitlearn",
+        "Jupyter Notebook": "simple-icons:jupyter"
+      },
+      "url": "https://github.com/alezana85/Contact_Center_KPI/blob/main/callmemaybe.ipynb"
+    },
+    {
+      "name": "Analisis de Compras",
+      "isActive": true,
+      "description": "Limpieza de datos y preparación de informes para brindar información sobre los hábitos de compra de los clientes de Instacart, una app de pedidos de comestibles",
+      "highlights": [
+        "🚀Procesamiento y limpieza de base de datos",
+        "🎯Analisis de hábitos de los clientes",
+        "📊Visualización de datos con Dashboards"
+      ],
+      "github": "https://github.com/alezana85/instacart",
+      "stack": {
+        "Python": "simple-icons:python",
+        "Pandas": "simple-icons:pandas",
+        "NumPy": "simple-icons:numpy",
+        "Matplotlib": "ph:speedometer",
+        "Seaborn": "mdi:chart-line"
+      },
+      "url": "https://github.com/alezana85/instacart/blob/main/proyecto_instacart.ipynb"
+    },
+    {
+      "name": "WebScraping & Automation",
+      "isActive": false,
+      "description": "Script para ingresar con certificados digitales a una web y automatizar los procesos de descarga de archivos masivos, asi como realizar la automatización de procesos de limpieza de datos en Excel para calculos de impuestos",
+      "highlights": [
+        "🤖Creacion de Script en Python",
+        "🔍Automatización de procesos",
+        "🌐Web Scraping"
+      ],
+      "stack": {
+        "Python": "simple-icons:python",
+        "Selenium": "simple-icons:selenium",
+        "BeautifulSoup": "ri:bowl-fill",
+        "ChromeDriver": "ri:chrome-fill"
+      },
+      "github": "https://github.com/ArielFalcon/ai_web_scrapper"
+    }
+  ]
+}

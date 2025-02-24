@@ -1,0 +1,13 @@
+{
+  "basics": {
+    "profiles": [
+      {
+        "network": "Download CV",
+        "icon": "tabler:file-cv",
+        "color": "#4b5320",
+        "username": "Download CV",
+        "url": "/documents/Analista de Datos - Alejandro Lezana.pdf"
+      }
+    ]
+  }
+}
