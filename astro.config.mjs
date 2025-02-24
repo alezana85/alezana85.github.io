@@ -9,7 +9,10 @@ import vercel from "@astrojs/vercel";
 // https://astro.build/config
 export default defineConfig({
   integrations: [
-    tailwind(),
+    tailwind({
+      // Ensure Tailwind builds correctly
+      config: { applyBaseStyles: false }
+    }),
     mdx(),
     astroIcon({
       include: {
@@ -21,19 +24,24 @@ export default defineConfig({
         lucide: ['*'],
         bi: ['*'],
         tabler: ['*'],
-        custom: ['article-icon.png'] // Específicamente incluimos el icono de artículo
+        custom: ['article-icon.png']
       },
     }),
     playformCompress({
       CSS: false,
       Image: false,
       Action: {
-        Passed: async () => true,   // https://github.com/PlayForm/Compress/issues/376
+        Passed: async () => true,
       },
     })
   ],
   output: "static",
-  adapter: vercel(),
   site: 'https://alezana85.github.io',
   base: '/',
+  build: {
+    assets: '_assets',
+    assetsPrefix: '/'
+  },
+  // Remove vercel adapter since we're using GitHub Pages
+  // adapter: vercel(),
 });

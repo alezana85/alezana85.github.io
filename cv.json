@@ -444,13 +444,14 @@
         "🔍Automatización de procesos",
         "🌐Web Scraping"
       ],
+      "github": "https://github.com/alezana85/imss"
       "stack": {
         "Python": "simple-icons:python",
         "Selenium": "simple-icons:selenium",
         "BeautifulSoup": "ri:bowl-fill",
         "ChromeDriver": "ri:chrome-fill"
       },
-      "github": "https://github.com/ArielFalcon/ai_web_scrapper"
+      "url": "https://github.com/alezana85/imss"
     }
   ]
 }
