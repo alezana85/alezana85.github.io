@@ -35,5 +35,5 @@ export default defineConfig({
   output: "static",
   adapter: vercel(),
   site: 'https://alezana85.github.io',
-  base: 'alezana85.github.io',
+  base: '/',
 });
